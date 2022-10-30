@@ -1,7 +1,7 @@
 baseURL = "https://yankikalfa.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Sarp Yanki Kalfa"
+title = "Yanki Kalfa"
 author = "Yanki Kalfa, Author"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
