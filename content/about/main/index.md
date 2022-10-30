@@ -10,7 +10,7 @@ intro: |
   
   I am interested in empirical asset pricing and forecasting. I think that forecasting need not be a magic 8 ball but a tool in the decision making process. Currently, I am researching the predictablity of firm profits an its implications to asset price fluctuations. 
   
-  ** Office:** 9500 Gilman Dr. La Jolla, CA 92093
+  **Office:** 9500 Gilman Dr. La Jolla, CA 92093
   
   **E-Mail:** [Yanki.Kalfa[at]rady.ucsd.edu](mailto:Yanki.Kalfa@rady.ucsd.edu)
   
