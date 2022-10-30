@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle:Rady SOM - University of California, San Diego
 text_align_left: false
-title: S. Yanki Kalfa
+title:Yanki Kalfa
 type: home
 ---
 
