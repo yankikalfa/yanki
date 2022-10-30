@@ -7,6 +7,11 @@ excerpt: With Jaime Marquez
 layout: single
 subtitle: 
 title: Forecasting FOMC Forecasts, Published in Econometrics Special Issue Celebrated Econometricians: David Hendry
+links:
+- icon: door-open
+  icon_pack: fas
+  name: Econometrics Journal
+  url: https://www.mdpi.com/2225-1146/9/3/34
 ---
 
 \
