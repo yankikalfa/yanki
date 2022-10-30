@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent papers
     text_link_url: /reserach/
 description: |
-  This is a list of reserach topics I am currently involved.
+  This is a list of published and working papers.
 layout: list
 show_author_byline: true
 show_button_links: true
