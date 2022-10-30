@@ -3,7 +3,7 @@ author: Yanki Kalfa
 type: blog
 title: Research
 description: 
-layout: list-sidebar
+layout: list
 show_author_byline: false
 show_button_links: false
 show_post_date: false
@@ -18,13 +18,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /research/
-sidebar:
-  author:
-  description: ""
-  show_sidebar_adunit: false
-  text_link_label: Contact me
-  text_link_url: mailto:Yanki.Kalfa@rady.ucsd.edu
-  title: Yanki Kalfa
+
 
 
 ---

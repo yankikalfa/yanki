@@ -6,7 +6,7 @@ draft: false
 excerpt: With Jaime Marquez
 layout: single
 subtitle: 
-title: Forecasting FOMC Forecasts
+title: Forecasting FOMC Forecasts, Published in Econometrics Special Issue Celebrated Econometricians: David Hendry
 ---
 
 \
