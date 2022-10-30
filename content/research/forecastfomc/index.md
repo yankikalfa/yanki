@@ -1,28 +1,29 @@
 ---
-author: Yanki Kalfa
+author: Alison Hill
 categories:
-- Published Paper
-date: "2021-09-14"
-date_end: "2021-09-13"
+- workshop
+date: "2021-01-12"
+date_end: "2021-01-13"
 draft: false
-
-excerpt: With Jaime Marquez. Published in Econometrics Celebrated Econometricians: David Hendry
+event: rstudio::global(2021)
+event_url: https://global.rstudio.com
+excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
+  GitHub, and Netlify.
 featured: true
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://www.mdpi.com/2225-1146/9/3/34
-  
-title: Forecasting FOMC Forecasts
+  url: https://bakeoff.netlify.com/
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/apreshill/bakeoff
+location: Sydney, Australia
+show_post_time: false
+subtitle: Testing
+title: A campfire
 ---
-\
-\
 
-(Hendry 1980, p. 403) The three golden rules of econometrics are <test, test, and test>. The current paper applies that approach to model the forecasts of the Federal Open Market Committee over 1992–2019 and to forecast those forecasts themselves. Monetary policy is forward-looking, and as part of the FOMC’s effort toward transparency, the FOMC publishes its (forward-looking) economic projections. The overall views on the economy of the FOMC participants–as characterized by the median of their projections for inflation, unemployment, and the Fed’s policy rate–are themselves predictable by information publicly available at the time of the FOMC’s meeting. Their projections also communicate systematic behavior on the part of the FOMC’s participants.
-\
-\
-[Published Version](https://yankikalfa.netlify.app/research/forecastingfomc/kalfa_marquez_forecasting_fomc.pdf)
-
-
+I'm really excited to give this talk! Stay tuned for video and slides.
