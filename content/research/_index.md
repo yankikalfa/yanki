@@ -18,7 +18,13 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /research/
-
+sidebar:
+  author:
+  description: ""
+  show_sidebar_adunit: false
+  text_link_label: Contact me
+  text_link_url: mailto:Yanki.Kalfa@rady.ucsd.edu
+  title: Yanki Kalfa
 
 
 ---
