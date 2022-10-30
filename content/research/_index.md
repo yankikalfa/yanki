@@ -1,9 +1,9 @@
 ---
-author:
+author: Yanki Kalfa
 type: blog
 title: Research
 description: 
-layout: list
+layout: list-sidebar
 show_author_byline: false
 show_button_links: false
 show_post_date: false
