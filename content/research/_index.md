@@ -2,7 +2,7 @@
 author:
 type: blog
 title: Research
-description: "This is the page where I share my working and published papers"
+description: 
 layout: list
 show_author_byline: false
 show_button_links: false
