@@ -8,11 +8,6 @@ draft: false
 excerpt: With Jaime Marquez. Published in Econometrics: Celebrated Econometricians David Hendry.
 featured: true
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://www.mdpi.com/2225-1146/9/3/34
 show_post_time: false
 title: Forecasting FOMC Forecasts
 ---
