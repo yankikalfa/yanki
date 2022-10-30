@@ -8,9 +8,9 @@ images:
 - img/IMG_1155.png
 show_action_link: true
 show_social_links: true
-subtitle:Rady SOM - University of California, San Diego
+subtitle: Rady SOM - University of California, San Diego
 text_align_left: false
-title:Yanki Kalfa
+title: Yanki Kalfa
 type: home
 ---
 
