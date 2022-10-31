@@ -1,8 +1,8 @@
 ---
 author: 
-type: project
+type: Teaching
 cascade:
-  type: project
+  type: Teaching
   show_author_byline: false
   show_comments: false
   show_post_date: false
@@ -15,12 +15,12 @@ show_post_thumbnail: true
 sidebar_left: true
 title: Teaching
 sidebar:
-  author: 
-  description: "Service outside of the classroom is something very important to me. Wherever possible I hope to foster a love of economics in students and see extracurriculuars as a great way to do that. If you are an undergraduate student interested in setting up an Economics Society or similar club at your institution, please reach out to me. I'd be more than happy to talk with you about my own experiences."
+  author: Yanki Kalfa
+  description: "I believe that good teachers are teachers who live and breath the topic. I try to make the learning environment as engaging as possible. Further, I think that applying the concept learned to actual data are an important part of learning."
   show_sidebar_adunit: false
   text_link_label: Contact Me
-  text_link_url: "mailto:varmenta@ucsd.edu"
-  title: Vincent Armentano
+  text_link_url: "mailto:Yanki.Kalfa@rady.ucsd.edu"
+  title: Yanki Kalfa
   sidebar_left: true
 ---
 
