@@ -26,7 +26,7 @@ This class introduces ML methods and applies to financial data. Below is the lis
   
   5. [Introduction to Neural Nets](https://www.yankikalfa.com/teaching/courses/lecture_5.pdf)
 
-Here is the [Syllabus](https://www.yankikalfa.com/teaching/courses/syllabus_sais_mlfin.pdf)
-To access lecture codes please see my [Github Repo](https://github.com/yankikalfa/SAIS-ML-for-Finance)
+Here is the [Syllabus](https://www.yankikalfa.com/teaching/courses/syllabus_sais_mlfin.pdf).
+To access lecture codes please see my [Github Repo](https://github.com/yankikalfa/SAIS-ML-for-Finance).
 ---
 
