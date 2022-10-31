@@ -27,3 +27,13 @@ title: A campfire
 ---
 
 I'm really excited to give this talk! Stay tuned for video and slides.
+
+
+\
+\
+Monetary policy is forward-looking, and as part of the FOMC’s effort toward transparency, the FOMC publishes its (forward-looking) economic projections. The overall views on the economy of the FOMC participants–as characterized by the median of their projections for inflation, unemployment, and the Fed’s policy rate–are themselves predictable by information publicly available at the time of the FOMC’s meeting. Their projections also communicate systematic behavior on the part of the FOMC’s participants.
+\
+\
+[Published Version](https://yankikalfa.netlify.app/research/forecastfomc/kalfa_marquez_forecasting_fomc.pdf)
+
+

@@ -1,11 +1,19 @@
 ---
-author:
+author: Yanki Kalfa
 categories:
+- Published
 date: "2021-09-14"
+date_end: "2021-09-14"
 draft: false
-excerpt: With Jaime Marquez. Published in Econometrics Celebrated Econometricians- David Hendry.
+excerpt: With Jaime Marquez. Published in Econometrics Celebrated Econometricians - David Hendry
+featured: true
 layout: single
-subtitle: 
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://www.mdpi.com/2225-1146/9/3/34
+show_post_time: false
 title: Forecasting FOMC Forecasts
 ---
 
@@ -15,5 +23,6 @@ Monetary policy is forward-looking, and as part of the FOMC’s effort toward tr
 \
 \
 [Published Version](https://yankikalfa.netlify.app/research/forecastfomc/kalfa_marquez_forecasting_fomc.pdf)
+
 
 
