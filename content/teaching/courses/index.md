@@ -10,7 +10,8 @@ tags:
 title: Courses
 ---
 
-# Machine Learning for Finance with Python 
+# Machine Learning for Finance with Python
+## Johns Hopkins University- SAIS
 This class starts with the basics of supervised and non-supervised learning and finishes with basic feed forward neural nets. Here is the summary of the materials covered.
 
 1. Supervised and Unsupervised Learning. Time-Series forecasting methods.
