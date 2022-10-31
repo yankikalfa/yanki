@@ -21,5 +21,7 @@ This class introduces ML methods and applies to financial data. Below is the lis
 3. Tree based methods
 4. Hyperparameter selection and CV
 5. Introduction to Neural Nets
+
+Here is the [Syllabus](https://www.yankikalfa.com/teaching/courses/syllabus_sais_mlfin.pdf)
 ---
 
