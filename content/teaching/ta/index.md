@@ -12,12 +12,29 @@ tags:
 title: TA Work
 ---
 
-# ECON1: Principles of Microeconomics, Fall 2021
-Each week of the ten week quarter I held an discussion section reviewing course content and helping students perform practice problems. I also held office hours, helped create exam questions and helped ensure lectures ran smoothly by answering questions in the lecture hall and on discord.
+# MGTF 405: Business Forecasting, Winter 22, Fall 22
+## UCSD-Rady
 
+I hold regular discussion sections to go over technical material covered in class. I present and discuss python code related to class material. Here is the [Github](https://github.com/yankikalfa/MGTF-405-Business-Forecasting)
+Here are some of the topics covered:
+1. ARIMA
+2. Model Selection Methods
+3. Vector Autoregressions (VECM)
+4. State Space Models
+5. Regime Switching Models
+6. Volatility Models (G/ARCH)
+7. Neural Networks
 ---
 
-# ECON3: Principles of Macroeconomics, Winter 2022
-For this course I specialized in covering topics of inflation and monetary policy for discussion sections. I also assisted during lectures, held office hours and helped write exams.
+# MGTF 495: Data Science for Finance II, Spring 22, Spring 23
+## UCSD-Rady
+This class covers supervised and unsupervised learning methods applied to financial data. I prepared assigments and lecture codes to support the lectures. Some topics covered in the class are:
+1. Tree Based Methods
+2. Logistic Models
+3. Support Vector Machines
+4. Time Series Clustering
+5. Feed-Forward Neural Networks
+6. Recurrent Neural Networks
+7. Attention Networks
 
 ---
