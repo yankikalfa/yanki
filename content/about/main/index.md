@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Hi, my name is Sarp Yanki Kalfa. I am a PhD candidate at the Rady School of Management at UC, San Diego. I hold a BA from the Pennsylvania State University and an MA from the Johns Hopkins University- SAIS. I was born in Turkey and speak English, French, and Turkish. I worked at the International Monetary Fund (IMF) and visited the Democratic Republic of Congo on an official capacity.
+  Hi, my name is Yanki Kalfa. I am a PhD candidate at the Rady School of Management at UC, San Diego. I hold a BA from the Pennsylvania State University and an MA from the Johns Hopkins University- SAIS. I was born in Turkey and speak English, French, and Turkish. I worked at the International Monetary Fund (IMF) and visited the Democratic Republic of Congo on an official capacity.
   
   I focus on empirical asset pricing and forecasting. I think that forecasting need not be a magic 8 ball but a tool in the decision making process. My research focuses on the heterogeneity of cash flows an its implications to asset price fluctuations. 
   
