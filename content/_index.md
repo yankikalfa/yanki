@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a third year PhD student focusing on empirical asset pricing. I am interested in financial econometrics and machine learning. My current research is about firm profitability forecasts and its implications for asset prices. 
+description: I am a PhD candidate focusing on empirical asset pricing. I am interested in financial econometrics and machine learning. My research is about the differences in industry profits and returns, and why certain indsutries offer higher returns.
 image_left: false
 images:
 - img/IMG_0153.png
