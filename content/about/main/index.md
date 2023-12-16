@@ -8,7 +8,7 @@ show_intro: true
 intro: |
   Hi, my name is Yanki Kalfa. I am a PhD candidate at the Rady School of Management at UC, San Diego. I hold a BA from the Pennsylvania State University and an MA from the Johns Hopkins University- SAIS. I was born in Turkey and speak English, French, and Turkish. I worked at the International Monetary Fund (IMF) and visited the Democratic Republic of Congo on an official capacity.
   
-  I focus on empirical asset pricing and forecasting. I think that forecasting need not be a magic 8 ball but a tool in the decision making process. My research focuses on the heterogeneity of cash flows an its implications to asset price fluctuations. 
+  I focus on empirical asset pricing and forecasting. My research focuses on the heterogeneity of cash flows across industries an its implications to asset prices. Mainly, I show that industries that higher correlation with cash flow shocks need to offer higher risk premiums. I think that forecasting need not be a magic 8 ball but a tool in the decision making process. 
   
   **Office:** 9500 Gilman Dr. La Jolla, CA 92093
   
