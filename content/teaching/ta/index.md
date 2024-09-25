@@ -11,6 +11,19 @@ subtitle:
 tags:
 title: TA Work
 ---
+# MGTF 402: Investment Analysis, Fall 24, Fall 21
+## UCSD-Rady
+
+I helped develop new assignments for the class including ESG factors, and technical trading rules using ChatGPT.
+
+Here are some of the topics covered:
+1. Portfolio Theory
+2. CAPM and Factor Models
+3. Market Efficiency
+4. Fixed Income Analysis
+5. Option Pricing
+
+---
 
 # MGTF 405: Business Forecasting, Winter 22, Fall 22
 ## UCSD-Rady
@@ -27,7 +40,7 @@ Here are some of the topics covered:
 7. Neural Networks
 ---
 
-# MGTF 495: Data Science for Finance II, Spring 22, Spring 23
+# MGTF 495: Data Science for Finance II, Spring 22, Spring 23, Spring 24
 ## UCSD-Rady
 
 This class covers supervised and unsupervised learning methods applied to financial data. I prepared assigments and lecture codes to support the lectures. Some topics covered in the class are:
@@ -38,5 +51,4 @@ This class covers supervised and unsupervised learning methods applied to financ
 5. Feed-Forward Neural Networks
 6. Recurrent Neural Networks
 7. Attention Networks
-
 ---
