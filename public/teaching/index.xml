@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Yanki Kalfa</title>
+    <link>https://www.yankikalfa.com/teaching/</link>
+    <description>Recent content in Teaching on Yanki Kalfa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yankikalfa.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Courses</title>
+      <link>https://www.yankikalfa.com/teaching/courses/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yankikalfa.com/teaching/courses/</guid>
+      <description> Machine Learning for Finance with Python Johns Hopkins University - SAIS This class introduces ML methods and applies to financial data. Below is the list of topics covered in the class:
+Introduction to ML and classical time series methods
+Linear ML methods
+Tree based methods
+Hyperparameter selection and CV
+Introduction to Neural Nets
+Here is the Syllabus. To access lecture codes please see my Github Repo. </description>
+    </item>
+    
+    <item>
+      <title>TA Work</title>
+      <link>https://www.yankikalfa.com/teaching/ta/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yankikalfa.com/teaching/ta/</guid>
+      <description>MGTF 405: Business Forecasting, Winter 22, Fall 22 UCSD-Rady I hold regular discussion sections to go over technical material covered in class. I present and discuss python code related to class material. Here is the Github page, where I keep lecture codes.
+Here are some of the topics covered:
+ARIMA Model Selection Methods Vector Autoregressions (VECM) State Space Models Regime Switching Models Volatility Models (G/ARCH) Neural Networks MGTF 495: Data Science for Finance II, Spring 22, Spring 23 UCSD-Rady This class covers supervised and unsupervised learning methods applied to financial data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Published on Yanki Kalfa</title>
+    <link>https://www.yankikalfa.com/categories/published/</link>
+    <description>Recent content in Published on Yanki Kalfa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yankikalfa.com/categories/published/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forecasting FOMC Forecasts</title>
+      <link>https://www.yankikalfa.com/research/forecastfomc/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yankikalfa.com/research/forecastfomc/</guid>
+      <description>Monetary policy is forward-looking, and as part of the FOMC’s effort toward transparency, the FOMC publishes its (forward-looking) economic projections. The overall views on the economy of the FOMC participants–as characterized by the median of their projections for inflation, unemployment, and the Fed’s policy rate–are themselves predictable by information publicly available at the time of the FOMC’s meeting. Their projections also communicate systematic behavior on the part of the FOMC’s participants.</description>
+    </item>
+    
+    <item>
+      <title>FOMC Forecasts - Are They Useful for Understanding Monetary Policy?</title>
+      <link>https://www.yankikalfa.com/research/fomcuse/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yankikalfa.com/research/fomcuse/</guid>
+      <description>Monetary policy is forward looking and, in its pursuit of transparency, it communicates its economic projections to the public at large. As a result, there is interest in whether these projections are credible. We argue that central to that credibility is the public’s ability to replicate the FOMC’s projections using publicly available data only. In other words, is it possible to anticipate, reliably and independently, what the FOMC will anticipate for the federal funds rate?</description>
+    </item>
+    
+  </channel>
+</rss>
