@@ -8,8 +8,7 @@ excerpt: With Allan Timmermann, and Terri van der Zwan
 featured: true
 layout: single
 show_post_time: false
-title: Overhyped? Can ML Models Reliably
-Predict Stock Returns?
+title: Overhyped? Can ML Models Reliably Predict Stock Returns?
 ---
 
 \
