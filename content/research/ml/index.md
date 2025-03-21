@@ -25,7 +25,7 @@ they set their hyperparameters. We also find that time-series validation methods
 not offer a definitive solution to the dependence of out-of-sample return forecasting
 performance on the underlying range of hyperparameters.
 
-[Latest Version](https://www.yankikalfa.com/research/ml/Kalfa-ML.pdf)
+[Latest Version](https://www.yankikalfa.com/research/ml/Hyped_ML_paper-2.pdf)
 
 
 
