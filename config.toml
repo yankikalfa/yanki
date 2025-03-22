@@ -129,8 +129,8 @@ enableEmoji = true
     url = "/research/"
     weight = 3
   [[menu.header]]
-    name = "Discussion"
-    title = "Discussion"
+    name = "Discussions"
+    title = "Discussions"
     url = "/disussion/"
     weight = 4
   [[menu.header]]
@@ -138,7 +138,6 @@ enableEmoji = true
     title = "Teaching"
     url = "/teaching/"
     weight = 5
-    
   # Configure footer  
   [[menu.footer]]
     name = "License"
