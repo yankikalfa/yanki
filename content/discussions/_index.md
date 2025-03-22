@@ -9,7 +9,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent papers
-    text_link_url: /discussion/
+    text_link_url: /discussions/
 description: |
   This is a list of discussions at various conferences
 layout: list
