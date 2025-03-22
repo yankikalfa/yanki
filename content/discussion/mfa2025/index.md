@@ -8,18 +8,13 @@ draft: false
 excerpt: Midwest Finance Conference 2025-Challenges in Housing Market Policy
 featured: true
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://www.mdpi.com/2225-1146/9/3/34
 show_post_time: false
-title: Forecasting FOMC Forecasts
+title: Discussion of Fiscal Stimulus and Housing Booms: Evidence from the 2003 Tax Cuts 
 ---
 
 \
 \
-This is a discussion of *Fiscal Stimulus and Housing Booms: Evidence from the 2003 Tax Cuts*
+This is a discussion of Fiscal Stimulus and Housing Booms: Evidence from the 2003 Tax Cuts
 \
 \
 [SLides](https://www.yankikalfa.com/discussion/mfa2025/Discussion_MFA.pdf)
