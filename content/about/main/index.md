@@ -6,11 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Hi, my name is Yanki Kalfa. I am an assistant professor of finance at the Fordham Unversity Gabelli School of Business. I hold a BA from the Pennsylvania State University and an MA from the Johns Hopkins University- SAIS. I was born in Turkey and speak English, French, and Turkish. I worked at the International Monetary Fund (IMF) and visited the Democratic Republic of Congo on an official capacity.
+  Hi, my name is Yanki Kalfa. I am an assistant professor of finance at the Fordham Unversity Gabelli School of Business. I hold a BA from the Pennsylvania State University and an MA from the Johns Hopkins University- SAIS.
   
-  I focus on empirical asset pricing and machine learning. My current research focuses on the heterogeneity of cash flows across industries an its implications on asset prices. My research shows that highly concentrated industries, such as Autos and Tech, have highly persistent profit growth, leading to highly sensitive profits to business cycles and therefore higher risk premia.
+  I focus on empirical asset pricing and machine learning. My current research focuses on the heterogeneity of cash flows across industries an its implications on asset prices. My research shows that highly concentrated industries, such as Autos and Tech, have highly persistent profit growth, leading to highly sensitive profits to business cycles and therefore need to offer higher risk premia.
   
-  **Office:** 9500 Gilman Dr. La Jolla, CA 92093
+  **Office:** 54 Columbus Ave, New York, NY 10023
   
   **E-Mail:** [Yanki.Kalfa[at]fordham.edu](mailto:skalfa@fordham.edu)
   
