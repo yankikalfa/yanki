@@ -10,4 +10,4 @@ title: Curriculum Vitae
 # 404
 \
 \
-[Please find my CV here.](https://www.yankikalfa.com/cv/Kalfa_CV.pdf)
+[Please find my New CV here.](https://www.yankikalfa.com/cv/Kalfa_CV.pdf)
