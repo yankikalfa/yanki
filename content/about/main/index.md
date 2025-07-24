@@ -12,7 +12,7 @@ intro: |
   
   **Office:** 54 Columbus Ave, New York, NY 10023
   
-  **E-Mail:** [Yanki.Kalfa[at]fordham.edu](mailto:skalfa@fordham.edu)
+  **E-Mail:** [skalfa[at]fordham.edu](mailto:skalfa@fordham.edu)
   
 show_outro: false
 outro: |
