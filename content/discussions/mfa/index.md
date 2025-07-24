@@ -1,7 +1,7 @@
 ---
 author: Yanki Kalfa
 categories:
-- Working-Paper
+- Discussion-Slides
 date: "2024-12-06"
 draft: false
 excerpt: Discussion
