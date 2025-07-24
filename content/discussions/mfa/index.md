@@ -8,7 +8,7 @@ excerpt: Discussions
 featured: true
 layout: single
 show_post_time: false
-title: Discussion of Fiscal Stimulus and Housing Booms: Evidence from the 2003 Tax Cuts
+title: Discussion of Fiscal Stimulus and Housing Booms- Evidence from the 2003 Tax Cuts
 ---
 
 \
