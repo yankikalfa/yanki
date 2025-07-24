@@ -131,7 +131,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Discussions"
     title = "Discussions"
-    url = "/disussion/"
+    url = "/disussions/"
     weight = 4
   [[menu.header]]
     name = "Teaching"
