@@ -121,7 +121,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/Kalfa_CV_JM.pdf"
+    url = "/cv/Kalfa_CV.pdf"
     weight = 2
   [[menu.header]]
     name = "Research"
