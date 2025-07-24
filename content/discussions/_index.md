@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent papers
     text_link_url: /discussions/
 description: |
-  This is a list of discussions at various conferences
+  This is a list of my discussion slides
 layout: list
 show_author_byline: true
 show_button_links: true
@@ -20,7 +20,7 @@ show_post_thumbnail: true
 show_post_time: true
 sidebar:
   author: Yanki Kalfa
-  description: "This is a list of discussions at various conferences \n"
+  description: "This is a list of my discussion slides \n"
   show_sidebar_adunit: false
   title: Discussions
 title: Discussions

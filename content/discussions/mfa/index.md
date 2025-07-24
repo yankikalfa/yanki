@@ -4,7 +4,7 @@ categories:
 - Discussion-Slides
 date: "2024-12-06"
 draft: false
-excerpt: Discussion
+excerpt: Discussions
 featured: true
 layout: single
 show_post_time: false
