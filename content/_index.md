@@ -8,7 +8,7 @@ images:
 - img/IMG_0153.png
 show_action_link: true
 show_social_links: true
-subtitle: Rady SOM - University of California, San Diego
+subtitle: Gabelli School of Business - Fordham University
 text_align_left: true
 title: Yanki Kalfa
 type: home
