@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am an assistant professor of finance at the Fordham University Gabelli School of Business focusing on empirical asset pricing. My research is about the differences in industry profits and returns, and why certain industries offer higher returns. I also focus on machine learning algorithms and their applications to return predictability.
+description: I am an Assistant Professor of Finance at the Fordham University Gabelli School of Business focusing on empirical asset pricing. My research is about the differences in industry profits and returns, and why certain industries offer higher returns. I also focus on machine learning algorithms and their applications to return predictability.
 image_left: false
 images:
 - img/IMG_0153.png
